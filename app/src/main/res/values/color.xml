@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_background1">#F08C35</color>
+    <color name="button_background2">#ff0099cc</color>
+    <color name="youtubeRed">#cd201f</color>
+    <color name="reviewBackgroundGrey">#dddddd</color>
+    <color name="white">#ffffff</color>
+</resources>
